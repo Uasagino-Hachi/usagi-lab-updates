@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "products": {
-    "comeslime-connect":       { "version": "1.0.0" },
-    "comeslime-connect-2":     { "version": "1.0.0" },
-    "commentquest-connect":    { "version": "1.0.0" },
-    "commentquest-connect-2":  { "version": "1.0.0" },
-    "comeslime-onecomme":      { "version": "1.0.0" },
-    "comeslime-onecomme-2":    { "version": "1.0.0" },
-    "commentquest-onecomme":   { "version": "1.0.0" },
-    "commentquest-onecomme-2": { "version": "1.0.0" }
+    "comeslime-connect":       { "version": "1.1.0" },
+    "comeslime-connect-2":     { "version": "1.1.0" },
+    "commentquest-connect":    { "version": "1.1.0" },
+    "commentquest-connect-2":  { "version": "1.1.0" },
+    "comeslime-onecomme":      { "version": "1.1.0" },
+    "comeslime-onecomme-2":    { "version": "1.1.0" },
+    "commentquest-onecomme":   { "version": "1.1.0" },
+    "commentquest-onecomme-2": { "version": "1.1.0" }
   }
 }
